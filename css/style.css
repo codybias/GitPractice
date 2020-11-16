@@ -1,0 +1,68 @@
+/* General Formating */
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+/* Body Format */
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    Font-size: 50px;
+    color: white;
+    font-weight: normal;
+
+
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+    font-size: 16px;
+
+}
+
+video {
+    margin-top: 25px;
+
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+
+}
+
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+#photoicon {
+    height: 100px;
+    width: auto;
+    margin-top: 25px;
+
+}
+
+.rightalign {
+    color: gray;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    
+}
